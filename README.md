@@ -1,12 +1,82 @@
-# React + Vite
+**🪨✂️📄 Rock Paper Scissors Game with Leaderboard**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive Rock Paper Scissors game built with React, featuring:
 
-Currently, two official plugins are available:
+✅ Real-time Scoreboard
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Match History & Leaderboard
 
-## Expanding the ESLint configuration
+✅ Visual Game Statistics with Recharts
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ Responsive UI for Mobile & Desktop
+
+
+**🎮 Live Demo**
+
+https://rock-paper-scissor-manaswini-sasmals-projects.vercel.app/
+
+
+**📂 Project Features**
+
+Classic Rock, Paper, Scissors Game Logic
+
+First to Score 3 Wins triggers Game Over
+
+Automatic History Logging with Date & Time
+
+Leaderboard showing Player vs Computer Results
+
+Graphical Statistics using Recharts Bar Chart
+
+Fully Responsive & Stylish UI
+
+
+
+**⚙️ Tech Stack**
+
+ReactJS (Functional Components & Hooks)
+
+Recharts (For Graphical Stats)
+
+CSS3 (Responsive & Modern Styling)
+
+Vite (Optional, based on your setup)
+
+
+**📝 Game Rules**
+
+Rock beats Scissors
+
+Scissors beats Paper
+
+Paper beats Rock
+
+First to score 3 points wins
+
+After each game, the results are logged in History & Leaderboard
+
+
+**📊 Graph Features**
+
+Bar Chart displays Player & Computer scores for each game
+
+Most recent games appear first
+
+Fully responsive across devices
+
+
+**🤝 Contributing**
+
+Pull requests are welcome. For major changes, open an issue to discuss your ideas.
+
+
+**🖼️ Screenshots**
+![image](https://github.com/user-attachments/assets/30b74018-67ea-43b7-bc0e-519b344d34fd)
+![image](https://github.com/user-attachments/assets/3e77c261-91bc-49d7-85a3-8875292382be)
+
+Thanks for visiting! Happy coding 💻 Made with ❤️ by Manaswini Sasmal
+
+
+
+
+
