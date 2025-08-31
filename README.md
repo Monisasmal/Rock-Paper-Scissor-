@@ -1,4 +1,4 @@
-**🪨✂️📄 Rock Paper Scissors Game with Leaderboard**
+## ✂️📄 Rock Paper Scissors Game with Leaderboard
 
 An interactive Rock Paper Scissors game built with React, featuring:
 
@@ -11,12 +11,12 @@ An interactive Rock Paper Scissors game built with React, featuring:
 ✅ Responsive UI for Mobile & Desktop
 
 
-**🎮 Live Demo**
+## 🎮 Live Demo**
 
 https://rock-paper-scissor-manaswini-sasmals-projects.vercel.app/
 
 
-**📂 Project Features**
+## 📂 Project Features
 
 Classic Rock, Paper, Scissors Game Logic
 
@@ -32,7 +32,7 @@ Fully Responsive & Stylish UI
 
 
 
-**⚙️ Tech Stack**
+## ⚙️ Tech Stack
 
 ReactJS (Functional Components & Hooks)
 
@@ -43,7 +43,7 @@ CSS3 (Responsive & Modern Styling)
 Vite (Optional, based on your setup)
 
 
-**📝 Game Rules**
+## 📝 Game Rules
 
 Rock beats Scissors
 
@@ -56,7 +56,7 @@ First to score 3 points wins
 After each game, the results are logged in History & Leaderboard
 
 
-**📊 Graph Features**
+## 📊 Graph Features
 
 Bar Chart displays Player & Computer scores for each game
 
@@ -65,7 +65,7 @@ Most recent games appear first
 Fully responsive across devices
 
 
-**🤝 Contributing**
+## 🤝 Contributing
 
 Pull requests are welcome. For major changes, open an issue to discuss your ideas.
 
