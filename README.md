@@ -70,13 +70,23 @@ Fully responsive across devices
 Pull requests are welcome. For major changes, open an issue to discuss your ideas.
 
 
-**🖼️ Screenshots**
+## 🖼️ Screenshots
 ![image](https://github.com/user-attachments/assets/30b74018-67ea-43b7-bc0e-519b344d34fd)
 ![image](https://github.com/user-attachments/assets/3e77c261-91bc-49d7-85a3-8875292382be)
 
-Thanks for visiting! Happy coding 💻 Made with ❤️ by Manaswini Sasmal
+🙋‍♀️ Author
 
+## Manaswini Sasmal
 
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio -- https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasamal559@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
+
+🔗 GitHub - https://github.com/Monisasmal
 
 
 
